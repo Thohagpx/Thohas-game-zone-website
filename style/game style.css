@@ -336,11 +336,12 @@ a{
 }
 
 
+
 .games-btn-link-section{
     background: linear-gradient(90deg, rgba(255, 66, 165, 0.03) 0%, rgba(255, 66, 165, 0.03) 100%);
     margin-top: 120px;
 }
-.btn-gamer-links{
+/* .btn-gamer-links{
     padding:100px 0px;
     max-width: 1120px;
     margin:var(--container-margin);
@@ -348,7 +349,7 @@ a{
     justify-content: center;
     flex-wrap: wrap;
     gap: 20px;
-}
+} */
 .btn-gamer-links{
     border-radius: 50px;
     background: #FFF;
@@ -363,8 +364,9 @@ a{
 .btn-gamer-links p{
     color: #0B0223;
     font-size: 14px;
-    font-weight: 600;
+    font-weight: 800;
     display:flex ;
+   
 }
 .btn-gamer-links:hover{
     border-radius: 50px;
